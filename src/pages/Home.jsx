@@ -215,7 +215,7 @@ export default function Home() {
               transition: 'width 1s ease-in-out',
             }}
           ></div>
-           {index + 1}
+          {/* Button {index + 1} */}
         </button>
       ))}
   </div>
