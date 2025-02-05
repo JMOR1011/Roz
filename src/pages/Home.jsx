@@ -290,16 +290,169 @@ export default function Home() {
     </div>
   </div>
 )}
-
-
-
 </section>
 
 
 
 
 
+<section style={{ display: 'flex', height: '965px' }}>
+      <div style={{ backgroundColor: '#f7f7f7', width: '940px', borderRight: '3px solid black', borderBottom: '3px solid black', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center', padding: '20px' }}>
+  <p style={{ fontWeight: '700', fontSize: '20px', letterSpacing: '8px'  }}>GROWTH</p>
+  <br />
+  <p style={{ fontWeight: '600', fontSize: '16px', color: '#9B9A9A' }}>
+  From pixel art to web design, branding, and app development. <br />
+  Using data and analytics, they focus on creating designs that <br />
+  engage audiences and deliver meaningful results.
+  </p>
+</div>
 
+
+<div style={{ backgroundColor: '#f7f7f7', width: '940px', borderBottom: '3px solid black', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center', padding: '20px' }}>
+  <p style={{ fontWeight: '700', fontSize: '20px', letterSpacing: '8px'  }}>CREATIVE</p>
+  <br />
+  <p style={{ fontWeight: '600', fontSize: '16px', color: '#9B9A9A' }}>
+    Approaching creativity with emotion and purpose, crafting<br />
+    visuals that resonate with users. From humble beginnings in <br />
+    pixel art to refined modern interfaces, their work embodies a <br />
+    balance of simplicity and innovation.
+  </p>
+</div>
+      </section>
+
+
+
+
+
+
+
+      {/* <section style={{ display: 'flex', height: '950px' }}>
+        
+      <div style={{ backgroundColor: '#f7f7f7', width: '940px', borderRight: '3px solid black', borderBottom: '3px solid black', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center', padding: '20px' }}>
+
+  <br />
+  <p style={{ fontWeight: '600', fontSize: '16px', color: '#000000' }}>
+  A graduate of De La Salle College of Saint Benilde with a <br />
+  degree in Animation, this designer merges creativity and <br /> 
+  strategy. They specialize in thoughtful, user-focused designs <br /> 
+  that drive growth and bring bold ideas to life.
+  </p>
+  <br />
+  <p style={{ fontWeight: '700', fontSize: '20px', color: '#000000', letterSpacing: '8px'  }}>
+  DESIGNER <span style={{ color: '#9B9A9A', letterSpacing: '8px'  }}>AARONE OLAZO</span>
+</p>
+</div>
+<div style={{ backgroundColor: '#f7f7f7', width: '940px', borderBottom: '3px solid black', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center', padding: '20px' }}>
+</div>
+      </section> */}
+
+
+<section style={{ display: 'flex', height: '950px' }}>
+        
+        {/* <div style={{ backgroundColor: '#f7f7f7', width: '940px', borderRight: '3px solid black', borderBottom: '3px solid black', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center', padding: '20px' }}>
+    <br />
+    <p style={{ fontWeight: '600', fontSize: '16px', color: '#000000' }}>
+    A graduate of De La Salle College of Saint Benilde with a <br />
+    degree in Animation, this designer merges creativity and <br /> 
+    strategy. They specialize in thoughtful, user-focused designs <br /> 
+    that drive growth and bring bold ideas to life.
+    </p>
+    <br />
+    <p style={{ fontWeight: '700', fontSize: '20px', color: '#000000', letterSpacing: '8px'  }}>
+    DESIGNER <span style={{ color: '#9B9A9A', letterSpacing: '8px'  }}>AARONE OLAZO</span>
+  </p>
+  </div> */}
+
+
+<div style={{ backgroundColor: '#f7f7f7', width: '940px', borderBottom: '3px solid black', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center', padding: '20px' }}>
+  <p style={{ fontWeight: '700', fontSize: '20px', letterSpacing: '8px'  }}>MINDSET</p>
+  <br />
+  <p style={{ fontWeight: '600', fontSize: '16px', color: '#9B9A9A' }}>
+  Design is the harmony of imagination and intention. When<br />
+  creativity meets strategy, every project transforms into <br />
+  something meaningful and memorable. 
+  </p>
+</div>
+  
+  
+  <div style={{ backgroundColor: '#222222', width: '940px', borderBottom: '3px solid black', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center', padding: '20px' }}>
+  </div>
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {/* <section style={{ backgroundColor: '#EAD2A8', height: '940px', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', textAlign: 'center', position: 'relative' }}>
+  <p style={{ fontWeight: '400', fontSize: '20px', color: '#000000', letterSpacing: '8px' }}>Hit me up for a project</p>
+  <a href="https://mail.google.com/" style={{ fontWeight: '600', fontSize: '20px', color: '#000000', letterSpacing: '8px', textDecoration: 'none' }}>olazoaarone@gmail.com</a>
+
+  <br />
+  <p style={{ fontWeight: '400', fontSize: '20px', color: '#000000', letterSpacing: '8px' }}>My Socials</p>
+  <div style={{ display: 'flex', gap: '60px' }}>
+    <a href="https://www.linkedin.com" style={{ fontWeight: '600', fontSize: '20px', color: '#000000', letterSpacing: '8px', textDecoration: 'none' }}>LinkedIn</a>
+    <a href="https://www.instagram.com/" style={{ fontWeight: '600', fontSize: '20px', color: '#000000', letterSpacing: '8px', textDecoration: 'none' }}>Instagram</a>
+  </div>
+
+
+  <img src={AAImage} alt="Image" style={{ position: 'absolute', bottom: '20px', right: '20px', width: '58px', height: '50px', paddingBottom: "20px", paddingRight: "20px" }} />
+</section> */}
+
+
+<section style={{ backgroundColor: '#BC5A4D', height: '940px', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', textAlign: 'center', position: 'relative' }}>
+  <p style={{ fontWeight: '400', fontSize: '20px', color: '#000000', letterSpacing: '8px' }}>Want to Work Together?</p>
+  <a href="https://mail.google.com/" style={{ fontWeight: '600', fontSize: '36px', color: '#000000', letterSpacing: '12px', textDecoration: 'underline' }}>olazoaarone@gmail.com</a>
+
+
+  <img src={AAImage} alt="Image" style={{ position: 'absolute', bottom: '20px', right: '20px', width: '58px', height: '50px', paddingBottom: "20px", paddingRight: "20px" }} />
+</section>
+
+
+
+
+
+      {/* <section style={{ backgroundColor: '#222222', height: '40px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+  <p style={{ fontWeight: '700', fontSize: '14px', color: '#ffffff', letterSpacing: '8px' }}>
+    Designed by: Aarone Olazo
+  </p>
+</section> */}
+
+<section style={{ 
+  backgroundColor: '#222222', 
+  height: '40px', 
+  display: 'flex', 
+  alignItems: 'center', 
+  justifyContent: 'space-between', 
+  padding: '0 20px' 
+}}>
+  <p style={{ 
+    fontWeight: '400', 
+    fontSize: '12px', 
+    color: '#ffffff',
+    letterSpacing: '8px'
+  }}>
+    © 2024 – All Rights Reserved
+  </p>
+  <div style={{ 
+    display: 'flex', 
+    gap: '30px' 
+  }}>
+    <a href="https://linkedin.com" target="_blank" style={{ color: '#ffffff', textDecoration: 'none' }}>
+      <i className="fab fa-linkedin" style={{ color: '#ffffff' }}></i>
+    </a>
+    <a href="https://instagram.com" target="_blank" style={{ color: '#ffffff', textDecoration: 'none', paddingRight: '30px' }}>
+      <i className="fab fa-instagram" style={{ color: '#ffffff' }}></i>
+    </a>
+  </div>
+</section>
 
 
 
